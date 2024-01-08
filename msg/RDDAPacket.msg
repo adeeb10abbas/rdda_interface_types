@@ -12,3 +12,5 @@ float64 remote_stamp
 float64 time_delay
 float64[] delay_energy_reservior
 float64[] pos_d
+float64[] energy
+float64[] ct
